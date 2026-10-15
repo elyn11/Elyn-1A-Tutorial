@@ -10,12 +10,30 @@ Off-white     #f6f6f6
 
 /* GLOBAL STYLES 
 ------------------------------------*/
-body {
-    background: #f3f2f2; 
-}
 html, body {
     height: 100%;
 }
+body {
+      background: #f6f6f6; 
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.4;
+}
+h1, h2, h3 {
+    font-family: 'Caveat', cursive;
+}
+h1 {
+    font-size: 7rem;
+}
+h2 {
+    font-size: 3.6rem;
+}
+h3 {
+    font-size: 2.4rem;
+}
+
+
 
 /* HOME
 ------------------------------------*/
